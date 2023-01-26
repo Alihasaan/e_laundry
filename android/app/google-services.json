@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946120861144",
+    "project_id": "e-laundry-app",
+    "storage_bucket": "e-laundry-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946120861144:android:e6d5d2b70be6d795cabead",
+        "android_client_info": {
+          "package_name": "com.example.e_laundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946120861144-76j7pn1pdk76piej7of9felrcgqdsahq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_laundry",
+            "certificate_hash": "e973b5616cc2b435647c25b3b07cdc022126cc47"
+          }
+        },
+        {
+          "client_id": "946120861144-kmbqc82afb14bpakp0ms6p087qcgtcja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc3kELycCQzfT_FAZ_vgk7czIy7dTX14M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946120861144-kmbqc82afb14bpakp0ms6p087qcgtcja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
